@@ -18,7 +18,8 @@ MODEL_CLASSES = {
 
 # 模型路径
 MODEL_PATH_MAP = {
-    'bert': 'bert-base-chinese',
+    # 'bert': 'bert-base-chinese',
+    'bert': '/data1/zpl/jddc/nlp_baai/pretrained_models_and_embeddings/bert/bert-base-chinese',
 }
 
 def get_seq_labels(args):

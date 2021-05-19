@@ -108,8 +108,8 @@ def get_vocab_bio(fr1, fr2, fw):
 
 if __name__ == "__main__":
 
-    train_data = read_train_data('../../../dataset/train.json')
-    example_ids = read_example_ids('../../../dataset/split.csv')
+    train_data = read_train_data('../../../Track1_Phase1_dataset/dataset/train.json')
+    example_ids = read_example_ids('../../../Track1_Phase1_dataset/dataset/split.csv')
 
     data_dir = 'ner_data'
     if not os.path.exists(data_dir):
