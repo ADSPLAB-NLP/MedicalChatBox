@@ -1,8 +1,15 @@
 # xwy
-save_model/
+# all trained model
+*save_model/
+
+# dataset
 Track1_Phase1_dataset/
-Task1_Named Entity Recognition/BERT-NER/data/cached_dev_ner_data_bert-base-chinese_50
-Task1_Named Entity Recognition/BERT-NER/data/cached_train_ner_data_bert-base-chinese_50
+
+# pre-processed data
+cached_dev_ner_data_*
+cached_train_ner_data_*
 Task1_Named Entity Recognition/BERT-NER/data/ner_data/
 Task1_Named Entity Recognition/BERT-NER/data/snips_train.txt
+
+# prediction file
 submission_track1_task1.json
