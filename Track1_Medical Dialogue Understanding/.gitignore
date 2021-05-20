@@ -1,6 +1,8 @@
 # xwy
+save_model/
 Track1_Phase1_dataset/
 Task1_Named Entity Recognition/BERT-NER/data/cached_dev_ner_data_bert-base-chinese_50
 Task1_Named Entity Recognition/BERT-NER/data/cached_train_ner_data_bert-base-chinese_50
 Task1_Named Entity Recognition/BERT-NER/data/ner_data/
 Task1_Named Entity Recognition/BERT-NER/data/snips_train.txt
+submission_track1_task1.json
